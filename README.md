@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A currency converter app displaying almost all the currencies.
+Takes 2 inputs the currency and amount.And converts to other equivalent currency amount.
 
 ## Available Scripts
 
