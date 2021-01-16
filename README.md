@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 A currency converter app displaying almost all the currencies.
 Takes 2 inputs the currency and amount.And converts to other equivalent currency amount.
 
+[Demo](https://currency-converter-react-app.herokuapp.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
